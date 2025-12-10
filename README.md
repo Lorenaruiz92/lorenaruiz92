@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi Lorena 👋
+## Este es tu perfil de Desarrollo Web (full-stack)
 
-<!--
-**Lorenaruiz92/lorenaruiz92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![mi cuenta](https://marketplace.canva.com/EAFPT14PUKM/1/0/1600w/canva-fondo-de-pantalla-con-fotograf%C3%ADa-del-cielo-con-frase-positiva-rosa,-morado-y-azul-rM4HxfG-tBg.jpg)
 
-Here are some ideas to get you started:
+## Mis pasiones
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Hacer deporte al aire libre ⚽️🥍🧘‍♀️
+- Cine 🎬
+- Desarrollo web 💻
+- Escuchar música 🎵
+- Leer un buen libro 📖
+- Pasear por la naturaleza 🚶‍♀️‍➡️⛰️
+- Los animales 🦁🐴🐘
+- Viajar, conocer mundo y nuevas culturas ✈️🌎
+  
+
+> Siempre estoy en continuo aprendizaje
+> Soy muy ordenada y me considero persona educada
+> Me gusta ser puntual, y profesional en mi trabajo
+> Tengo experiencia trabajando en equipo y soy una persona empática
+
+## Tecnologías
+
+- **Mongo**
+- **JavaScript**
+- **Express**
+- **ReactJS**
+- **AngularJS**
+- **Mongo**
+
+
+![Profile views](https://komarev.com/ghpvc/?username=DesarrolloWebHackio)
+
+
