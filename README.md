@@ -16,9 +16,9 @@
   
 
 > Siempre estoy en continuo aprendizaje.
-> Me considerouna persona ordenada, empática y educada.
+> Me considero una persona ordenada, empática y educada.
 > Me gusta ser puntual, y profesional en mi trabajo.
-> Tengo experiencia trabajando en equipo, gracias a los años de experiencia y lugares donde he trabajado.
+> Tengo experiencia trabajando en equipo, gracias a las empresas que he estado y los años trabajados.
 
 ## Tecnologías
 
