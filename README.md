@@ -26,8 +26,9 @@
 - **JavaScript**
 - **Express**
 - **ReactJS**
-- **AngularJS**
-- **Mongo**
+- **NodeJS**
+- **Html5**
+- **Css**
 
 
 
